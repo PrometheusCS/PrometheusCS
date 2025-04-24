@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prometheus
 - 👀 I’m interested in Python, Javascript, threeJs, Cybersecurity, Osint, 3D modeling and 3D print
-- 🌱 I’m currently learning Dev : Python, Js and threeJS
+- 🌱 I’m currently learning Cybersecurity and Dev : Python, Js and threeJS
 - 📫 How to reach me ...
 
 
